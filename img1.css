@@ -1,0 +1,11 @@
+table{ 
+  border-spacing: 15px;
+}
+
+td{
+    border: 2px solid #050505;
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow: 2px 2px 4px 1px rgb(103, 100, 100);
+              /* H   v  Blur spread  */
+}
